@@ -1,0 +1,9 @@
+/* File that assigns the text color #3D3D3D to the HTML tags body and p */
+$my_var: #3D3D3D;
+
+body {
+    color: $my_var; 
+} 
+p {
+    color: $my_var; 
+}

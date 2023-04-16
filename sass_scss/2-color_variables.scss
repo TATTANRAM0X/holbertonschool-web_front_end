@@ -1,0 +1,15 @@
+$my_var: #3D3D3D;
+$my_var2: #6D6D6D;
+
+body {
+    color: $my_var;
+    background-color: $my_var2;
+}
+  
+p {
+    color: $my_var;
+}
+  
+h2 {
+    background-color: $my_var2;
+}
